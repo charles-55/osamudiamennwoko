@@ -336,6 +336,52 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   border-right: 0.08em solid #666;
 }
 
+/* Skills CSS */
+.skill {
+  padding: 0 0 50px 0;
+  position: relative;
+}
+
+.skill-bx {
+  background: #151515;
+  border-radius: 64px;
+  margin-top: -60px;
+  padding: 60px 50px;
+  text-align: center;
+}
+
+.skill h2 {
+	font-size: 45px;
+	font-weight: 700;
+}
+
+.skill p {
+  color: #B8B8B8;
+  font-size: 18px;
+  letter-spacing: 0.8px;
+  line-height: 1.5em;
+  margin: 14px 0 75px 0;
+}
+
+.skill-slider {
+  margin: 0 auto;
+  position: relative;
+  width: 80%;
+}
+
+.skill-slider .item img {
+  margin: 0 auto 15px auto;
+  width: 50%;
+}
+
+.background-image-left {
+  bottom: 0;
+  position: absolute;
+  top: 28%;
+  width: 40%;
+  z-index: -4;
+}
+
 .App {
   text-align: center;
 }
