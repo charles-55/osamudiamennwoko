@@ -1,6 +1,8 @@
 import { useState } from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import contactImg from '../assets/img/contact-img.svg';
+import 'animate.css';
+import TrackVisibility from 'react-on-screen';
 
 export const Contact = () => {
     const formInitialDetails = {
@@ -55,20 +57,50 @@ export const Contact = () => {
                         <form onSubmit={handleSubmit}>
                             <Row>
                                 <Col sm={6} className='px-1'>
-                                    <input type='text' value={formDetails.firstName} placeholder='First Name' onChange={(e) => onFormUpdate('firstName', e.target.value)} />
+                                    <TrackVisibility>
+                                        {({ isVisible }) =>
+                                            <div className={isVisible ? "animate__animated animate__slideInLeft animate__faster" : ""}>
+                                                <input  type='text' value={formDetails.firstName} placeholder='First Name' onChange={(e) => onFormUpdate('firstName', e.target.value)} />
+                                            </div>
+                                        }
+                                    </TrackVisibility>
                                 </Col>
                                 <Col sm={6} className='px-1'>
-                                    <input type='text' value={formDetails.lastName} placeholder='Last Name' onChange={(e) => onFormUpdate('lastName', e.target.value)} />
+                                    <TrackVisibility>
+                                        {({ isVisible }) =>
+                                            <div className={isVisible ? "animate__animated animate__slideInRight animate__faster" : ""}>
+                                                <input type='text' value={formDetails.lastName} placeholder='Last Name' onChange={(e) => onFormUpdate('lastName', e.target.value)} />
+                                            </div>
+                                        }
+                                    </TrackVisibility>
                                 </Col>
                                 <Col sm={6} className='px-1'>
-                                    <input type='email' value={formDetails.email} placeholder='Email Address' onChange={(e) => onFormUpdate('email', e.target.value)} />
+                                    <TrackVisibility>
+                                        {({ isVisible }) =>
+                                            <div className={isVisible ? "animate__animated animate__slideInLeft animate__faster" : ""}>
+                                                <input type='email' value={formDetails.email} placeholder='Email Address' onChange={(e) => onFormUpdate('email', e.target.value)} />
+                                            </div>
+                                        }
+                                    </TrackVisibility>
                                 </Col>
                                 <Col sm={6} className='px-1'>
-                                    <input type='tel' value={formDetails.phone} placeholder='Phone Number' onChange={(e) => onFormUpdate('phone', e.target.value)} />
+                                    <TrackVisibility>
+                                        {({ isVisible }) =>
+                                            <div className={isVisible ? "animate__animated animate__slideInRight animate__faster" : ""}>
+                                                <input type='tel' value={formDetails.phone} placeholder='Phone Number' onChange={(e) => onFormUpdate('phone', e.target.value)} />
+                                            </div>
+                                        }
+                                    </TrackVisibility>
                                 </Col>
                                 <Col className='px-1'>
-                                    <textarea row='15' value={formDetails.message} placeholder='Message' onChange={(e) => onFormUpdate('message', e.target.value)} />
-                                    <button type='submit'><span>{buttonText}</span></button>
+                                    <TrackVisibility>
+                                        {({ isVisible }) =>
+                                            <div className={isVisible ? "animate__animated animate__slideInUp animate__faster" : ""}>
+                                                <textarea row='15' value={formDetails.message} placeholder='Message' onChange={(e) => onFormUpdate('message', e.target.value)} />
+                                                <button type='submit'><span>{buttonText}</span></button>
+                                            </div>
+                                        }
+                                    </TrackVisibility>
                                 </Col>
                                 {
                                     status.message &&

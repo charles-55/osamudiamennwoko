@@ -630,6 +630,11 @@ p.danger {
   margin-top: 20px;
 }
 
+/* Animation CSS */
+.animate__animated {
+  --animate-duration: 2s;
+}
+
 .App {
   text-align: center;
 }
