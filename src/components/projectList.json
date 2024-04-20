@@ -2,12 +2,12 @@
     "projects": [
         {
             "title": "SeachMeUp",
-            "description": "Description 1",
+            "description": "A personal portfolio website that serves as a showcase for creative professionals to exhibit their work, skills, experience, and contact information. The website is designed to have distinct sections, including projects (a dedicated section to display the portfolio owner's projects, including descriptions, images, and any other relevant media), skills (an area to highlight the creative professional's skills, providing a comprehensive overview of their abilities and expertise), experience (a section to showcase the professional experience of the portfolio owner, including past employment, internships, or freelance work), and contact information (a prominent and easily accessible section that allows potential clients or collaborators to get in touch).",
             "imgUrls": [ "img/projects/searchmeup1.jpeg", "img/projects/searchmeup2.jpeg", "img/projects/searchmeup3.jpeg" ]
         },
         {
             "title": "Mini-Survey Monkey",
-            "description": "Description 2",
+            "description": "A mini-survey monkey web application that allows a surveyor to create a survey with a list of questions. Questions can be open-ended (text), asking for a number within a range, or asking to choose among many options. Users fill out a survey that is a form generated based on the type of questions in the survey. Surveyor can close the survey whenever they want (thus not letting in new users to fill out the survey), and at that point a survey result is generated, compiling the answers: for open-ended questions, the answers are just listed as-is, for number questions a histogram of the answers is generated, for choice questions a pie chart is generated.",
             "imgUrls": []
         }
     ]
