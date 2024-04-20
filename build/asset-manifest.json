@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/osamudiamennwoko/static/css/main.2b7f8e13.css",
+    "main.js": "/osamudiamennwoko/static/js/main.03a51055.js",
+    "static/js/453.acca0757.chunk.js": "/osamudiamennwoko/static/js/453.acca0757.chunk.js",
+    "static/media/banner-bg.png": "/osamudiamennwoko/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/CentraNo2-Bold.ttf": "/osamudiamennwoko/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/osamudiamennwoko/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/osamudiamennwoko/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/osamudiamennwoko/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/revicons.eot": "/osamudiamennwoko/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/osamudiamennwoko/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/osamudiamennwoko/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/osamudiamennwoko/index.html",
+    "main.2b7f8e13.css.map": "/osamudiamennwoko/static/css/main.2b7f8e13.css.map",
+    "main.03a51055.js.map": "/osamudiamennwoko/static/js/main.03a51055.js.map",
+    "453.acca0757.chunk.js.map": "/osamudiamennwoko/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b7f8e13.css",
+    "static/js/main.03a51055.js"
+  ]
+}
