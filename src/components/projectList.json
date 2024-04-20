@@ -3,12 +3,12 @@
         {
             "title": "SeachMeUp",
             "description": "Description 1",
-            "imgUrls": [ "img/projects/project-img1.png", "img/projects/project-img2.png", "img/projects/project-img3.png", "img/projects/project-img1.png", "img/projects/project-img2.png", "img/projects/project-img3.png" ]
+            "imgUrls": [ "img/projects/searchmeup1.jpeg", "img/projects/searchmeup2.jpeg", "img/projects/searchmeup3.jpeg" ]
         },
         {
             "title": "Mini-Survey Monkey",
             "description": "Description 2",
-            "imgUrls": [ "img/projects/project-img1.png", "img/projects/project-img2.png", "img/projects/project-img3.png" ]
+            "imgUrls": []
         }
     ]
 }
