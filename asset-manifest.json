@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/charles-55.github.io/static/css/main.843085fe.css",
+    "main.js": "/charles-55.github.io/static/js/main.0540e1be.js",
+    "static/js/453.acca0757.chunk.js": "/charles-55.github.io/static/js/453.acca0757.chunk.js",
+    "static/media/banner-bg.png": "/charles-55.github.io/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/CentraNo2-Bold.ttf": "/charles-55.github.io/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/charles-55.github.io/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/charles-55.github.io/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/charles-55.github.io/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/revicons.eot": "/charles-55.github.io/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/charles-55.github.io/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/charles-55.github.io/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/charles-55.github.io/index.html",
+    "main.843085fe.css.map": "/charles-55.github.io/static/css/main.843085fe.css.map",
+    "main.0540e1be.js.map": "/charles-55.github.io/static/js/main.0540e1be.js.map",
+    "453.acca0757.chunk.js.map": "/charles-55.github.io/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.843085fe.css",
+    "static/js/main.0540e1be.js"
+  ]
+}
