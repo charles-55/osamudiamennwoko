@@ -1,0 +1,14 @@
+{
+    "projects": [
+        {
+            "title": "SeachMeUp",
+            "description": "Description 1",
+            "imgUrls": [ "img/projects/project-img1.png", "img/projects/project-img2.png", "img/projects/project-img3.png", "img/projects/project-img1.png", "img/projects/project-img2.png", "img/projects/project-img3.png" ]
+        },
+        {
+            "title": "Mini-Survey Monkey",
+            "description": "Description 2",
+            "imgUrls": [ "img/projects/project-img1.png", "img/projects/project-img2.png", "img/projects/project-img3.png" ]
+        }
+    ]
+}

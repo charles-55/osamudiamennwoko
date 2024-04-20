@@ -251,7 +251,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
 
 /* Banner CSS */
 .banner {
-  background-image: url('./assets/img/banner-bg.png');
+  background-image: url('../public/img/banner-bg.png');
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -366,6 +366,11 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   width: 50%;
 }
 
+.carousel-slide {
+  max-height: 550px;
+  overflow: scroll;
+}
+
 .background-image-left {
   bottom: 0;
   position: absolute;
@@ -392,9 +397,6 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   font-size: 18px;
   letter-spacing: 0.8px;
   line-height: 1.5em;
-  margin: 14px auto 30px auto;
-  text-align: center;
-  width: 56%;
 }
 
 .project .nav.nav-pills {
@@ -612,7 +614,7 @@ p.danger {
 
 /* Footer CSS */
 .footer {
-  background-image: url('./assets/img/footer-bg.png');
+  background-image: url('../public/img/footer-bg.png');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -633,5 +635,11 @@ p.danger {
 
 /* Animation CSS */
 .animate__animated {
-  --animate-duration: 2s;
+  --animate-duration: 1s;
+}
+
+.hidden {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s, opacity 1s ease-out; 
 }
