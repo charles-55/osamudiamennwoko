@@ -57,7 +57,7 @@ export const Banner = () => {
                                         <span className={isComplete ? "animate__animated animate__flash animate__infinite" : ""}>|</span>
                                     </h1>
                                     <p>
-                                        A skilled <strong>software engineer</strong> possessing a broad range of skills in software design, development, testing, and a rapid rate of learning. Competent in a wide range of programming languages, platforms, and the newest state-of-the-art techniques and equipment. Capable of managing oneself while working independently and as a competent team member during projects. I enjoy researching and learning new things, especially those related to software. Outside software development, I also love to play basketball and read books.
+                                        A skilled <strong>software developer</strong> possessing a broad range of skills in software design, development, testing, and a rapid rate of learning. Competent in a wide range of programming languages, platforms, and the newest state-of-the-art techniques and equipment. Capable of managing oneself while working independently and as a competent team member during projects. I enjoy researching and learning new things, especially those related to software. Outside software development, I also love to play basketball and read books.
                                     </p>
                                     <button onClick={() => document.getElementById('connect').scrollIntoView({ behavior: 'smooth' })}>Let's connect <ArrowRightCircle size={25}/></button>
                                 </div>
