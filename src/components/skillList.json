@@ -1,8 +1,8 @@
 {
     "skills" : {
-        "Programming Languages" : { "React.js" : 100, "React Native" : 100, "Node.js" : 100, "Express.js" : 100, "Java" : 100, "Python" : 100, "HTML" : 100, "CSS" : 100, "JavaScript" : 100, "PHP" : 100, "Swift" : 100, "C/C++" : 100, "Django" : 90, "Typescript" : 85, "GoLang" : 75, "Smalltalk" : 50 },
+        "Programming Languages" : { "React.js" : 100, "Node.js" : 100, "Next.js" : 100,  "Express.js" : 100, "React Native" : 100, "Flutter" : 100, "Java" : 100, "Python" : 100, "HTML" : 100, "CSS" : 100, "JavaScript" : 100, "PHP" : 100, "Swift" : 100, "C/C++" : 100, "Django" : 90, "Typescript" : 85, "GoLang" : 75, "Smalltalk" : 50 },
         
-        "Cloud Computing" : { "Azure" : 100, "AWS" : 95, "Firebase" : 85 },
+        "Cloud Computing" : { "Azure" : 100, "GCP" : 100, "AWS" : 95, "Firebase" : 85 },
         
         "Operating Systems" : { "Windows 10 & 11" : 100, "MacOS" : 100, "LinuxOS" : 100 },
         
@@ -14,6 +14,6 @@
         
         "Other Technical Skills" : { "Postman" : 100, "Arduino" : 95, "Wireshark" : 75 },
         
-        "Transferrable Skills" : { "Communication" : 100 }
+        "Transferrable Skills" : { "Communication" : 100, "Teamwork" : 100, "Leadership" : 100, "Quick Learner" : 100 }
     }
 }
