@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/osamudiamennwoko/static/css/main.49bed94e.css",
-    "main.js": "/osamudiamennwoko/static/js/main.3cbedecc.js",
+    "main.css": "/osamudiamennwoko/static/css/main.bcdb8bbd.css",
+    "main.js": "/osamudiamennwoko/static/js/main.f1646d21.js",
     "static/js/453.acca0757.chunk.js": "/osamudiamennwoko/static/js/453.acca0757.chunk.js",
     "static/media/banner-bg.png": "/osamudiamennwoko/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/CentraNo2-Bold.ttf": "/osamudiamennwoko/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -12,12 +12,12 @@
     "static/media/revicons.ttf": "/osamudiamennwoko/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/osamudiamennwoko/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/osamudiamennwoko/index.html",
-    "main.49bed94e.css.map": "/osamudiamennwoko/static/css/main.49bed94e.css.map",
-    "main.3cbedecc.js.map": "/osamudiamennwoko/static/js/main.3cbedecc.js.map",
+    "main.bcdb8bbd.css.map": "/osamudiamennwoko/static/css/main.bcdb8bbd.css.map",
+    "main.f1646d21.js.map": "/osamudiamennwoko/static/js/main.f1646d21.js.map",
     "453.acca0757.chunk.js.map": "/osamudiamennwoko/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49bed94e.css",
-    "static/js/main.3cbedecc.js"
+    "static/css/main.bcdb8bbd.css",
+    "static/js/main.f1646d21.js"
   ]
 }
