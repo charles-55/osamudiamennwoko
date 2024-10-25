@@ -7,7 +7,7 @@ import TrackVisibility from 'react-on-screen';
 export const Banner = () => {
     const [loopNum, setloopNum] = useState(0);
     const [isDeleting, setIsDeleting] = useState(false);
-    const toRotate = ["Full Stack Developer", "App Developer", "Web Developer"];
+    const toRotate = ["Full Stack Developer", "Mobile App Developer", "Cloud Developer", "AI Developer"];
     const [text, setText] = useState("");
     const [delta, setDelta] = useState(150);
     const [isComplete, setIsComplete] = useState(false);

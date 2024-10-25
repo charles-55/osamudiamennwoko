@@ -8,7 +8,7 @@
         
         "Container Orchestration & DevOps" : { "GitHub" : 100, "GitHub Actions" : 100, "GitLab" : 90, "Docker" : 90 },
         
-        "DBMS Tools" : { "PostgreSQL" : 100, "MySQL" : 100, "pgAdmin 4" : 100, "phpMyAdmin" : 100, "SQL Server" : 100 },
+        "DBMS Tools" : { "PostgreSQL" : 100, "MySQL" : 100, "pgAdmin 4" : 100, "phpMyAdmin" : 100, "SQL Server" : 100, "Firestore" : 100 },
         
         "Project Management" : { "Jira" : 100, "AGILE Development" : 100, "Scrum" : 100 },
         

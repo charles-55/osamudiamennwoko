@@ -1,14 +1,28 @@
 {
     "projects": [
         {
+            "title": "Clean Cycle",
+            "description": "Clean Cycle is a mobile application designed to address the pressing issue of environmental pollution and promote recycling to protect the environment. It serves as a platform for individuals and companies to actively participate in waste management efforts and contribute to a cleaner and more sustainable planet.",
+            "imgUrls": [],
+            "link": "https://github.com/rkareem2/Clean-Cycle_flutter-app"
+        },
+        {
+            "title": "Gemini Quizzify",
+            "description": "Gemini Quizzify is a chat interface using Streamlit that integrates with Google's Gemini large language model. It is an interactive platform that allows users to generate quizzes and practice questions based on the documents (notes) provided to the model.",
+            "imgUrls": [],
+            "link": "https://github.com/charles-55/gemini-quizzify"
+        },
+        {
             "title": "SeachMeUp",
-            "description": "A personal portfolio website that serves as a showcase for creative professionals to exhibit their work, skills, experience, and contact information. The website is designed to have distinct sections, including projects (a dedicated section to display the portfolio owner's projects, including descriptions, images, and any other relevant media), skills (an area to highlight the creative professional's skills, providing a comprehensive overview of their abilities and expertise), experience (a section to showcase the professional experience of the portfolio owner, including past employment, internships, or freelance work), and contact information (a prominent and easily accessible section that allows potential clients or collaborators to get in touch).",
-            "imgUrls": [ "img/projects/searchmeup1.jpeg", "img/projects/searchmeup2.jpeg", "img/projects/searchmeup3.jpeg" ]
+            "description": "A personal portfolio website that serves as a showcase for creative professionals to exhibit their work, skills, experience, and contact information. The website is designed to have distinct sections, including projects, skills, experience, and contact information.",
+            "imgUrls": [ "img/projects/searchmeup1.jpeg", "img/projects/searchmeup2.jpeg", "img/projects/searchmeup3.jpeg" ],
+            "link": "https://github.com/osasiyamu/Personal-Portfolio"
         },
         {
             "title": "Mini-Survey Monkey",
-            "description": "A mini-survey monkey web application that allows a surveyor to create a survey with a list of questions. Questions can be open-ended (text), asking for a number within a range, or asking to choose among many options. Users fill out a survey that is a form generated based on the type of questions in the survey. Surveyor can close the survey whenever they want (thus not letting in new users to fill out the survey), and at that point a survey result is generated, compiling the answers: for open-ended questions, the answers are just listed as-is, for number questions a histogram of the answers is generated, for choice questions a pie chart is generated.",
-            "imgUrls": []
+            "description": "A mini-survey monkey web application that allows a surveyor to create a survey with a list of questions. Users can answer either through text, number within a range, or multi-select format depending on the surveyor's design. Surveyors can close the survey whenever they want (thus not letting in new users to fill out the survey), and also generate the survery results. These results are either listed as-is, in form of a histogram, or a pie chart.",
+            "imgUrls": [],
+            "link": "https://github.com/charles-55/Mini-SurveyMonkey"
         }
     ]
 }
